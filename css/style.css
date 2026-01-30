@@ -79,8 +79,10 @@ html,body {
 
 .container{
     max-width: 1430px;
+    width: 100%;
+    box-sizing: border-box;
     margin: 0% auto;
-    padding: 15px;
+    padding: 0 15px;
 }
 
 .header_content {
@@ -152,7 +154,7 @@ html,body {
 /* ================= GLOBAL ================= */
 .container0 {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1430px;
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -217,4 +219,5 @@ html,body {
     background-color: #1e40af;
 
 }
+
 
