@@ -31,7 +31,9 @@ a {
 ============*/
 
 
-body {
+html,body {
+    width: 100%;
+    max-width: 100%;
     margin: 0px;
     overflow-x: hidden;
 }
@@ -215,3 +217,4 @@ body {
     background-color: #1e40af;
 
 }
+
